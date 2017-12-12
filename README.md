@@ -10,7 +10,7 @@ This website is built upon a Bootstrap template. The details of this template ar
  
 ## Special thanks
  
-Many thanks to [Natalie James](https://www.linkedin.com/in/nataliejames95/) for single hendedly building almost all of the customizations on the ResoNova website! Your many long hours of work are greatly appreciated!
+Many thanks to [Natalie James](https://www.linkedin.com/in/nataliejames95/) for single handedly building almost all of the customizations on the ResoNova website! Your many long hours of work are greatly appreciated!
 
 ## View the live website
 

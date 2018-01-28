@@ -917,25 +917,25 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 769px) {
   #team {
-    padding-bottom: 2680px;
+    padding-bottom: 1780px;
   }
 }
 
 @media (max-width: 426px) {
   #team {
-    padding-bottom: 2970px;
+    padding-bottom: 3290px;
   }
 }
 
 @media (max-width: 376px) {
   #team {
-    padding-bottom: 2970px;
+    padding-bottom: 3290px;
   }
 }
 
 @media (max-width: 321px) {
   #team {
-    padding-bottom: 2970px;
+    padding-bottom: 3290px;
   }
 }
 
